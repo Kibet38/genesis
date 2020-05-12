@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#243447</color>
+    <color name="colorPrimaryDark">#243447</color>
+    <color name="colorAccent">#3D5470</color>
+
+    <color name="pri">#03a9f4</color>
+    <color name="priDark">#03a9f4</color>
+    <color name="accent">#03a9f4</color>
+
+    <color name="grey">#A0A3A3</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="border">#ebebeb</color>
+    <color name="background2">#243447</color>
+    <color name="buttons">#657BEF</color>
+    <color name="textColor">#8FA497</color>
+    <color name="blue_light">#b8e6fc</color>
+
+    <color name="activeIcon">#FF9E80</color>
+</resources>

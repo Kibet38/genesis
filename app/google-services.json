@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "660917215221",
+    "firebase_url": "https://biblical-46b2a.firebaseio.com",
+    "project_id": "biblical-46b2a",
+    "storage_bucket": "biblical-46b2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660917215221:android:c6555d39b6a99260a64abc",
+        "android_client_info": {
+          "package_name": "kibe.dev.genesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660917215221-i12a0rcrhg1tmsr7ektm67cjhft6n0en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT0f2k3PLSGPYHKo71XsuaewVCurBejNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660917215221-i12a0rcrhg1tmsr7ektm67cjhft6n0en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
